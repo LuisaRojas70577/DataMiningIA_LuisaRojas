@@ -70,6 +70,10 @@ Limitaciones
 
 El dataset es pequeño y no representa a toda la población.
 
+## 🎥 Video del proyecto
+
+Puedes ver el video aquí: https://drive.google.com/file/d/1wBk3-CtnFk5CqDM2SRGIzQ_QC62b_hFL/view?usp=sharing 
+
 
 
 
